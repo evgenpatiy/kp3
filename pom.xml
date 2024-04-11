@@ -6,7 +6,7 @@
 	<artifactId>kaoss-pad-kp3</artifactId>
 	<packaging>jar</packaging>
 	<name>Kaoss Pad KP3</name>
-	<version>0.1</version>
+	<version>0.2</version>
 	
 	<repositories>
        <repository>
